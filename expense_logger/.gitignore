@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*.sqlite3
+*.db
+.expense_logger.sqlite3
